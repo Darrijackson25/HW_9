@@ -1,0 +1,35 @@
+body {
+  background-color: coral;
+}
+
+
+div {
+  background-color: wheat;
+}
+
+h1 {
+    text-align: center;
+    color:floralwhite;
+}
+
+a {
+    text-align: center;
+    color: floralwhite;
+     text-decoration: underline;
+}
+
+button {
+    background-color: beige;
+    text-align: center;
+    display: inline-block;
+    color: coral;
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+   
+}
+
+textarea {
+    color: burlywood;
+    background-color: cornsilk;
+}
